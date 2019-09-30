@@ -21,12 +21,19 @@ MySQL --> Sistema de gerenciamento de Banco de dados.
 Mostra uma lista de Dados
 Verbo que isso é o Get..
 URL para ver uma lista de dados: 
+
 via swagger é:    http://localhost:8080/swagger-ui.html#/ 
-Via Postman é;
+
+Via Postman é;http://localhost:8080/api
+
 Para lista todos: http://localhost:8080/api/produtos
+
 Para trazer apenas um pelo Id: http://localhost:8080/api/produto/id(01)
+
 para delata basta usar o método delete: http://localhost:8080/api/produto
+
 Para alterar é Put: http://localhost:8080/api/produto
+
 Para Salvar é Post: http://localhost:8080/api/produto
 
 ## Conclara ussão
