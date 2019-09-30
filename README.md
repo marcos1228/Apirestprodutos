@@ -7,9 +7,12 @@ IDE--> Tool Suite4
 Swagerr
 linguagem de programação --> java 8
 
-Git --> Sistema de versão distribuida 
+Git --> Sistema de versão distribuida.
+
 Postaman--> O Postman é uma ferramenta que tem como objetivo testar serviços RESTful (Web APIs) por meio do envio de requisições HTTP e da análise do seu retorno.
+
 GitHub--> serviço para hospedagem de projeto
+
 heroku--> https://apiavaliacao-estagio-remoto.herokuapp.com/
 
 MySQL --> Sistema de gerenciamento de Banco de dados.
