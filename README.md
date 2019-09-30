@@ -18,23 +18,24 @@ No crud consta uma estrutura de um Webservice, naqual retorna os dados em format
 * MySQL --> Sistema de gerenciamento de Banco de dados.
 
 ## Função Do Crud
-Listar todos, Listar por Id, Deleta, Salvar, Update. 
+* Listar todos, Listar por Id, Deleta, Salvar, Update. 
 
-URL para ver uma lista de dados: 
+1. URL para ver uma lista de dados: 
 
-via swagger é:    http://localhost:8080/swagger-ui.html#/ 
+2. via swagger é:    http://localhost:8080/swagger-ui.html#/ 
 
-Via Postman é;http://localhost:8080/api
 
-Para lista todos: http://localhost:8080/api/produtos
+3. Via Postman é;http://localhost:8080/api
 
-Para trazer apenas um pelo Id: http://localhost:8080/api/produto/id(01)
+4. Para lista todos: http://localhost:8080/api/produtos
 
-para delata basta usar o método delete: http://localhost:8080/api/produto
+5. Para trazer apenas um pelo Id: http://localhost:8080/api/produto/id(01)
 
-Para alterar é Put: http://localhost:8080/api/produto
+6.para delata basta usar o método delete: http://localhost:8080/api/produto
 
-Para Salvar é Post: http://localhost:8080/api/produto
+7.Para alterar é Put: http://localhost:8080/api/produto
+
+8.Para Salvar é Post: http://localhost:8080/api/produto
 
 ## Conclusão
 Concluir mais uma vez com sucesso a criação de uma apirest para a fanilidade de aprimora o conhecimento em programação e para se avaliado a varga de estagio remoto....
