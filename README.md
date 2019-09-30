@@ -4,7 +4,9 @@ No crud consta uma estrutura de um Webservice, naqual retorna os dados em format
 
 ## Tecnologia utilizada:
 IDE--> Tool Suite4
-Swagerr
+
+Swagger
+
 linguagem de programação --> java 8
 
 Git --> Sistema de versão distribuida.
@@ -18,8 +20,8 @@ heroku--> https://apiavaliacao-estagio-remoto.herokuapp.com/
 MySQL --> Sistema de gerenciamento de Banco de dados.
 
 ## Função Do Crud
-Mostra uma lista de Dados
-Verbo que isso é o Get..
+Listar todos, Listar por Id, Deleta, Salvar, Update. 
+
 URL para ver uma lista de dados: 
 
 via swagger é:    http://localhost:8080/swagger-ui.html#/ 
